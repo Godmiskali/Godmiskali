@@ -1,6 +1,6 @@
 ### Hakkımda
 
-Almanya'da yaşayan bir Yazılım Mühendisliği öğrencisiyim. Siber güvenlik ve temiz kod yazma konularına tutkuyla bağlıyım. Sürekli öğrenmeyi ve öğrendiklerimi projelere dönüştürmeyi hedefliyorum. Şu anda Java üzerine yoğunlaşıyorum. Boş zamanlarımda çello çalıyor ve yeni diller öğreniyorum.
+Almanya'da yaşayan bir Yazılım Mühendisliği öğrencisiyim. Siber güvenlik ve kod yazma konularına tutkuyla bağlıyım. Sürekli öğrenmeyi ve öğrendiklerimi projelere dönüştürmeyi hedefliyorum. Şu anda Java üzerine yoğunlaşıyorum. Boş zamanlarımda çello çalıyor ve yeni diller öğreniyorum.
 
 * **Programlama Dilleri**
     * `Java` (Aktif olarak yoğunlaşıyorum)
