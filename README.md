@@ -1,47 +1,44 @@
-### Hakkımda
+# Hi, I'm Almira 👋
 
-Almanya'da yaşayan bir Yazılım Mühendisliği öğrencisiyim. Siber güvenlik ve kod yazma konularına tutkuyla bağlıyım. Sürekli öğrenmeyi ve öğrendiklerimi projelere dönüştürmeyi hedefliyorum. Şu anda Java üzerine yoğunlaşıyorum. Boş zamanlarımda çello çalıyor ve yeni diller öğreniyorum.
+## 👩‍💻 About Me
+I'm a Software Engineering student living in Germany and studying at the University of Duisburg-Essen. I'm passionate about cybersecurity and coding. I'm always eager to learn and to turn what I learn into projects that are useful in real life. Right now, I'm focusing on Java. In my free time, I play the cello and learn new languages.
 
-* **Programlama Dilleri**
-    * `Java` (Aktif olarak yoğunlaşıyorum)
-    * `Python` (Siber güvenlik ve scriptingleme için)
-    * `C` (Temel düzeyde)
-    * `HTML` & `CSS`
+## 🚀 Current Project
+- **Warehouse & Shipping Management App**: A web-based application I'm building for a logistics company in Germany. It uses barcode/QR scanning to track stock and shipments, with modules for goods receipt, stock transfers, inventory counts and a warehouse/shelf map.
+  *Tech stack: Supabase (PostgreSQL), HTML, CSS, JavaScript*
 
-* **Veritabanları**
-    * `SQL` (MySQL)
+## 💻 Technical Skills
+* Programming Languages
+   * `Java` (Currently focusing on)
+   * `Python` (For cybersecurity and scripting)
+   * `JavaScript`
+   * `C` (Basic level)
+   * `HTML` & `CSS`
+* Databases
+   * `SQL` (MySQL, PostgreSQL)
+   * `Supabase`
 
-### 🛠️ Kullandığım Araçlar
+## 🛠️ Tools
+* Version Control
+   * `Git`
+   * `GitHub`
+* IDEs & Code Editors
+   * `VS Code`
+   * `Eclipse`
+   * `PyCharm`
+* Package Management
+   * `pip` (for Python)
+* Project Management & Productivity
+   * `Notion`
 
-* **Sürüm Kontrolü (Version Control)**
-    * `Git`
-    * `GitHub`
+## 🏅 Certificates
+- Python Programming – Udemy
 
-* **IDE'ler ve Kod Editörleri (IDEs & Code Editors)**
-    * `VS Code`
-    * `Eclipse`
-    * `PyCharm`
+## 🌍 Languages
+- Turkish – Native
+- German – C1
+- English – B1/B2
 
-* **Paket Yönetimi (Package Management)**
-    * `pip` (Python için)
-
-* **Proje Yönetimi ve Verimlilik (Project Management & Productivity)**
-    * `Notion`
-
-
-
-
-<!--
-**Godmiskali/Godmiskali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- LinkedIn: [almira-k-65706a20b](https://www.linkedin.com/in/almira-k-65706a20b/)
+- Email: almirakara112@gmail.com
