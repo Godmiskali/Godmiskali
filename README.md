@@ -34,7 +34,8 @@ I'm a Software Engineering student living in Germany and studying at the Univers
    * `pip` (for Python)
 * Project Management & Productivity
    * `Notion`
- *Game Development*
+
+*Game Development*
 * Roblox Studio, Luau
 
 
