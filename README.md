@@ -35,8 +35,8 @@ I'm a Software Engineering student living in Germany and studying at the Univers
 * Project Management & Productivity
    * `Notion`
 
-*Game Development*
-* Roblox Studio, Luau
+*Game Development
+   * `Roblox Studio, Luau`
 
 
 ## 🏅 Certificates
