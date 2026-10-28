@@ -1,11 +1,15 @@
 # Hi, I'm Almira 👋
 
 ## 👩‍💻 About Me
+
 I'm a Software Engineering student living in Germany and studying at the University of Duisburg-Essen. I'm passionate about cybersecurity and coding. I'm always eager to learn and to turn what I learn into projects that are useful in real life. Right now, I'm focusing on Java. In my free time, I play the cello and learn new languages.
 
-## 🚀 Current Project
-- **Warehouse & Shipping Management App**: A web-based application I'm building for a logistics company in Germany. It uses barcode/QR scanning to track stock and shipments, with modules for goods receipt, stock transfers, inventory counts and a warehouse/shelf map.
-  *Tech stack: Supabase (PostgreSQL), HTML, CSS, JavaScript*
+💼 **Open to freelance work** – I'm currently available for freelance projects (web applications, internal business tools, Roblox games). Feel free to reach out!
+
+## 🚀 Projects
+
+- **[Warehouse Management System](https://github.com/Godmiskali/warehouse-management-system):** A warehouse management system I built for a logistics company in Germany and that is used there every day. It handles inventory per shelf, order picking from shipping-label PDFs, returns, stocktaking and automated monthly billing with Excel export. *Tech stack: Node.js, SQLite, JavaScript, HTML, CSS*
+- - **Roblox Game (in development):** A game I'm currently developing in Roblox Studio, including gameplay scripting in Luau. *Tech stack: Roblox Studio, Luau*- 
 
 ## 💻 Technical Skills
 * Programming Languages
@@ -30,6 +34,9 @@ I'm a Software Engineering student living in Germany and studying at the Univers
    * `pip` (for Python)
 * Project Management & Productivity
    * `Notion`
+ *Game Development*
+* Roblox Studio, Luau
+
 
 ## 🏅 Certificates
 - Python Programming – Udemy
