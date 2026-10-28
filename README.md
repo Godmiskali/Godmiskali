@@ -9,8 +9,7 @@ I'm a Software Engineering student living in Germany and studying at the Univers
 ## 🚀 Projects
 
 - **[Warehouse Management System](https://github.com/Godmiskali/warehouse-management-system):** A warehouse management system I built for a logistics company in Germany and that is used there every day. It handles inventory per shelf, order picking from shipping-label PDFs, returns, stocktaking and automated monthly billing with Excel export. *Tech stack: Node.js, SQLite, JavaScript, HTML, CSS*
-- - **Roblox Game (in development):** A game I'm currently developing in Roblox Studio, including gameplay scripting in Luau.
-  - *Tech stack: Roblox Studio, Luau*
+- - **Roblox Game (in development):** A game I'm currently developing in Roblox Studio, including gameplay scripting in Luau.*Tech stack: Roblox Studio, Luau*
 
 ## 💻 Technical Skills
 * Programming Languages
